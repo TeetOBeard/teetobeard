@@ -37,5 +37,5 @@ Os códigos dos bots e softwares que desenvolvi não se encontram públicos, por
 🎓 Cursando Engenharia de Software.
 
 <a href="https://discordapp.com/users/464114658886942730">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href="[https://discordapp.com/users/464114658886942730](https://twitter.com/TeetObeard)">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="[https://discordapp.com/users/464114658886942730](https://t.me/TeetObeard)">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://twitter.com/TeetObeard">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://t.me/TeetObeard">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
