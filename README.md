@@ -31,6 +31,6 @@ As plataformas para as quais mais desenvolvo são: Discord e Telegram.
 🏢 Realizo meus serviços também sob o nome da marca "HiBeard Solutions", criada por mim em Janeiro de 2023.<br>
 🎓 Cursando Engenharia de Software.
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<a href="https://discordapp.com/users/464114658886942730">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="[https://discordapp.com/users/464114658886942730](https://twitter.com/TeetObeard)">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="[https://discordapp.com/users/464114658886942730](https://t.me/TeetObeard)">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
