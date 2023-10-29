@@ -7,25 +7,30 @@
 Apesar de não existir uma área com tal distinção, tenho como foco, área de maior conhecimento e experiência o <b>desenvolvimento de bots e automações</b> onde realizo todo o processo necessário: desde o levantamento de dados, requisitos, até a fase de entrega + manutenção. 
 As plataformas para as quais mais desenvolvo são: Discord e Telegram. 
 
+### Tecnologias
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ### Experiências
 <i>2023 foi o ano onde realmente coloquei a mão na massa (ou melhor, no teclado).</i>
 
 - <a href="https://comunidadedobonus.com/">Comunidade do Bônus</a> -
-   Desenvolvimento de diversos bots para a comunidade, desde sistema de verificação até webscraping.<br>
+   Desenvolvimento de diversos bots para a comunidade. Desde sistema de verificação até bots dependentes de webscraping.<br>
 - <a href="https://nuuvem.com.br">Nuuvem</a> - 
-   Com uma parceria fechada no mês de Outubro, estou responsável por desenvolver o bot de alertas de novos jogos em promoções.<br>
+   Com uma parceria fechada no mês de Outubro, estou desenvolvendo um bot de alertas.<br>
   
  Além disso, desenvolvi também para indivíduos, que por motivos de privacidade não os listarei aqui.<br>
 
- Em suma, desenvolvi mais de 30 bots para clientes (e mais alguns que fiz para uso próprio). Todos com funcionalidades distintas.
+ Em suma, em 2023 desenvolvi mais de 30 bots para clientes (e mais alguns que fiz para uso próprio). Todos com funcionalidades distintas.
 
 ## 💡 Um pouco mais sobre sim
 
 🔭 Atualmente trabalho totalmente de forma autônoma, faço freelances tanto para invíduos como para grupos e empresas.<br>
 🌱 Sempre aprendendo.<br>
-📫 Caso queira contratar o meu serviço, você pode me contatar diretamente pelo Discord ou Telegram. O usuário é o mesmo para ambos.<br>
+📫 Caso queira contratar o meu serviço, você pode me contatar diretamente pelo Discord ou Telegram. Os links se encontram no fim desta página.<br>
 🏢 Realizo meus serviços também sob o nome da marca "HiBeard Solutions", criada por mim em Janeiro de 2023.<br>
 🎓 Cursando Engenharia de Software.
 
-Discord: @teetobeard<br>
-Telegram: <a href="https://t.me/TeetObeard">@teetobeard</a>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
