@@ -8,7 +8,7 @@ Apesar de não existir uma área com tal distinção, tenho como foco, área de 
 As plataformas para as quais mais desenvolvo são: Discord e Telegram. 
 
 ### Tecnologias
-<i>Tecnologias as quais tenho conhecimento, afinidade, experiência.</i>
+<i>Tecnologias as quais mais possuo conhecimento, afinidade, experiência.</i>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
@@ -28,7 +28,7 @@ As plataformas para as quais mais desenvolvo são: Discord e Telegram.
 
 Os códigos dos bots e softwares que desenvolvi não se encontram públicos, porém, se necessário para a tomada de decisão da sua possível contratação, me disponho a mostrá-los por meio de uma chamada. 
 
-## 💡 Um pouco mais sobre sim
+## 💡 Um pouco mais sobre mim
 
 🔭 Atualmente trabalho totalmente de forma autônoma, faço freelances tanto para invíduos como para grupos e empresas.<br>
 🌱 Sempre aprendendo.<br>
