@@ -35,6 +35,7 @@ Os códigos dos bots e softwares que desenvolvi não se encontram públicos, por
 📫 Caso queira contratar o meu serviço, você pode me contatar diretamente pelo Discord ou Telegram. Os links se encontram no fim desta página.<br>
 🏢 Realizo meus serviços também sob o nome da marca "HiBeard Solutions", criada por mim em Janeiro de 2023.<br>
 🎓 Cursando Engenharia de Software.
+🗣️ Idiomas: Português e Inglês avançado
 
 <a href="https://discordapp.com/users/464114658886942730">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://twitter.com/TeetObeard">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
