@@ -24,6 +24,11 @@ As plataformas para as quais mais desenvolvo são: Discord e Telegram.
 
  Em suma, em 2023 desenvolvi mais de 30 bots para clientes (e mais alguns que fiz para uso próprio). Todos com funcionalidades distintas.
 
+ ### 💡 Quer ver mais do que já fiz? 
+<i>Nas páginas abaixo, posto mais do que faço, com um pouco mais de detalhes sobre cada projeto.</i><br>
+https://twitter.com/HiBeardSol<br>
+https://t.me/HiBeard
+
  ### 📄 Códigos
 
 Os códigos dos bots e softwares que desenvolvi não se encontram públicos, porém, se necessário para a tomada de decisão da sua possível contratação, me disponho a mostrá-los por meio de uma chamada. 
