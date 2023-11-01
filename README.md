@@ -18,7 +18,7 @@ As plataformas para as quais mais desenvolvo são: Discord e Telegram.
 - <a href="https://comunidadedobonus.com/">Comunidade do Bônus</a> -
    Desenvolvimento de diversos bots para a comunidade. Desde sistema de verificação até bots dependentes de webscraping.<br>
 - <a href="https://nuuvem.com.br">Nuuvem</a> - 
-   Com uma parceria fechada no mês de Outubro, estou desenvolvendo um bot de alertas.<br>
+   Com uma parceria fechada no mês de Outubro, desenvolvi um bot de alertas chamado "NuuAlertas".<br>
   
  Além disso, desenvolvi também para indivíduos, que por motivos de privacidade não os listarei aqui.<br>
 
