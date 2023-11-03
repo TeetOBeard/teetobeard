@@ -4,8 +4,7 @@
 
 ## 👨‍💻 Sobre o meu trabalho
 
-Apesar de não existir uma área com tal distinção, tenho como foco, área de maior conhecimento e experiência o <b>desenvolvimento de bots e automações</b> onde realizo todo o processo necessário: desde o levantamento de dados, requisitos, até a fase de entrega + manutenção + hospedagem em servidor por minha conta. 
-As plataformas para as quais mais desenvolvo são: Discord e Telegram. 
+Tenho como foco, área de maior conhecimento e experiência o <b>desenvolvimento de bots e automações</b> onde realizo todo o processo necessário: desde o levantamento de dados, requisitos, manutenção, entrega e até mesmo a hospedagem em servidores por minha conta. Desenvolvo bots paras as seguintes plataformas: Discord, Telegram. 
 
 ### Tecnologias
 <i>Tecnologias as quais mais possuo conhecimento, afinidade, experiência.</i>
