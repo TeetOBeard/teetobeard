@@ -6,6 +6,10 @@
 
 Tenho como foco, área de maior conhecimento e experiência o <b>desenvolvimento de bots e automações</b> onde realizo todo o processo necessário: desde o levantamento de dados, requisitos, manutenção, entrega e até mesmo a hospedagem em servidores por minha conta. Desenvolvo bots paras as seguintes plataformas: Discord, Telegram. 
 
+### Meu modelo de trabalho
+
+Todos os bots ou sistemas serão submetidos a testes pelo cliente, e o pagamento só será devido após a aprovação do mesmo.
+
 ### Tecnologias
 <i>Tecnologias as quais mais possuo conhecimento, afinidade, experiência.</i>
 
@@ -22,7 +26,7 @@ Algumas empresas e marcas em destaque:
    Com uma parceria fechada no mês de Outubro, desenvolvi um bot de alertas chamado "NuuAlertas".<br>
 - <a href="https://discord.gg/go-island">Go Island</a> - Desenvolvimento de um bot multi-funcional para o Discord oficial do jogo.<br>
 
- Além disso, desenvolvi também para indivíduos, que por motivos de privacidade não os listarei aqui.<br>
+ Além disso, desenvolvi também para indivíduos, que por motivos de privacidade não estão listados aqui.<br>
 
  Em suma, em 2023 desenvolvi mais de 30 bots para clientes (e mais alguns que fiz para uso próprio). Todos com funcionalidades distintas.
 
