@@ -14,11 +14,14 @@ Tenho como foco, área de maior conhecimento e experiência o <b>desenvolvimento
 ### Experiências
 <i>2023 foi o ano onde realmente coloquei a mão na massa (ou melhor, no teclado).</i>
 
+Algumas empresas e marcas em destaque:
+
 - <a href="https://discord.gg/comunidadedobonus">Comunidade do Bônus</a> -
    Desenvolvimento de diversos bots para a comunidade. Desde sistema de verificação até bots dependentes de webscraping.<br>
 - <a href="https://nuuvem.com.br">Nuuvem</a> - 
    Com uma parceria fechada no mês de Outubro, desenvolvi um bot de alertas chamado "NuuAlertas".<br>
-  
+- <a href="https://discord.gg/go-island">Go Island</a> - Desenvolvimento de um bot multi-funcional para o Discord oficial do jogo.<br>
+
  Além disso, desenvolvi também para indivíduos, que por motivos de privacidade não os listarei aqui.<br>
 
  Em suma, em 2023 desenvolvi mais de 30 bots para clientes (e mais alguns que fiz para uso próprio). Todos com funcionalidades distintas.
