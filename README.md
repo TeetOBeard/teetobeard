@@ -23,7 +23,7 @@ Algumas empresas e marcas em destaque:
 - <a href="https://discord.gg/comunidadedobonus">Comunidade do Bônus</a> -
    Desenvolvimento de diversos bots para a comunidade. Desde sistema de verificação até bots dependentes de webscraping.<br>
 - <a href="https://nuuvem.com.br">Nuuvem</a> - 
-   Desenvolvimento dos bots oficiais de alertas da Nuuvem chamado "NuuAlertas". Disponíveis no Discord e Telegram.<br>
+   Desenvolvimento dos bots oficiais de alertas da Nuuvem, chamado "NuuAlertas". Disponíveis no Discord e Telegram.<br>
 - <a href="https://discord.gg/go-island">Go Island</a> - Desenvolvimento de um bot multi-funcional para o Discord oficial do jogo.<br>
 
  Além disso, desenvolvi também para indivíduos, que por motivos de privacidade não estão listados aqui.<br>
