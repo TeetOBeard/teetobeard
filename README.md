@@ -1,6 +1,6 @@
 # Olá, eu sou o Teet 👋
 
-<i>Programador | Desenvolvedor de bot e automação (desde Janeiro de 2023) | Freelancer</i>
+<i>Programador | Desenvolvedor de bot e automação | Freelancer</i>
 
 ## 👨‍💻 Sobre o meu trabalho
 
