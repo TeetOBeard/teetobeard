@@ -1,4 +1,4 @@
-<i>Última atualização: 27/01/2024
+<i>Última atualização: 27/01/2024</i>
 # Olá, eu sou o Teet 👋
 
 <i>Programador | Desenvolvedor de bot e automação | Freelancer</i>
@@ -52,5 +52,3 @@ Os códigos dos bots e softwares que desenvolvi não se encontram públicos, por
 <a href="https://discordapp.com/users/464114658886942730">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://twitter.com/TeetObeard">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://t.me/TeetObeard">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
-</i>
