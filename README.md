@@ -45,7 +45,7 @@ Os códigos dos bots e softwares que desenvolvi não se encontram públicos, por
 🔭 Atualmente trabalho totalmente de forma autônoma, faço freelances tanto para invíduos como para grupos e empresas.<br>
 🌱 Sempre aprendendo.<br>
 📫 Caso queira contratar o meu serviço, você pode me contatar diretamente pelo Discord ou Telegram. Os links se encontram no fim desta página.<br>
-🏢 Realizo meus serviços também sob o nome da marca "HiBeard Solutions", criada por mim em Janeiro de 2023.<br>
+🏢 Realizo meus serviços também sob o nome da empresa "HiBeard Solutions", criada por mim em Janeiro de 2023.<br>
 🎓 Cursando Engenharia de Software.<br>
 🗣️ Idiomas: Português e Inglês avançado
 
