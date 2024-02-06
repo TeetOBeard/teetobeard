@@ -29,7 +29,12 @@ Algumas empresas e marcas em destaque:
 
  Além disso, desenvolvi também para indivíduos, que por motivos de privacidade não estão listados aqui.<br>
 
- Em suma, em 2023 desenvolvi mais de 30 bots para clientes (e mais alguns que fiz para uso próprio). Todos com funcionalidades distintas.
+ Em suma, em 2023 desenvolvi mais de 40 bots para clientes (e mais alguns que fiz para uso próprio). Todos com funcionalidades distintas.
+
+ <i><b>2024</b></i>
+
+  Mais informações em breve.
+
 
  ### 💡 Quer ver mais do que já fiz? 
 <i>Nas páginas abaixo, posto mais do que faço, com um pouco mais de detalhes sobre cada projeto.</i><br>
