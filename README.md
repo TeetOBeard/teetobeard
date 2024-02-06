@@ -1,4 +1,4 @@
-<i>Última atualização: 27/01/2024</i>
+<i>Última atualização: 06/02/2024</i>
 # Olá, eu sou o Teet 👋
 
 <i>Programador | Desenvolvedor de bot e automação | Freelancer</i>
