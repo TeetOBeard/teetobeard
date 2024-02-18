@@ -9,6 +9,8 @@ Tenho como foco, área de maior conhecimento e experiência o <b>desenvolvimento
 
 Também realizo instalação, manutenção, alteração e adição de novas funcionalidades em bots e/ou sistemas já existentes.
 
+Uso de APIs REST.
+
 ### 🎯 Meu modelo de trabalho
 
 Todos os bots ou sistemas serão submetidos a testes pelo cliente, e o pagamento só será devido após a aprovação do mesmo.
