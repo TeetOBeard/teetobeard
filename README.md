@@ -1,4 +1,4 @@
-<i>Última atualização: 18/02/2024</i>
+<i>Última atualização: 17/05/2024</i>
 # Olá, eu sou o Teet 👋
 
 <i>Programador | Desenvolvedor de bot e automação | Freelancer</i>
@@ -9,7 +9,6 @@ Tenho como foco, área de maior conhecimento e experiência o <b>desenvolvimento
 
 Também realizo instalação, manutenção, alteração e adição de novas funcionalidades em bots e/ou sistemas já existentes.
 
-Uso de APIs REST.
 
 ### 🎯 Meu modelo de trabalho
 
@@ -20,6 +19,8 @@ Todos os bots ou sistemas serão submetidos a testes pelo cliente, e o pagamento
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
+Tamém possuo boa experiência com uso de APIs REST.
+
 ### Experiências
 <i><b>2023</b></i>
 
@@ -28,7 +29,7 @@ Algumas empresas e marcas em destaque:
 - <a href="https://discord.gg/comunidadedobonus">Comunidade do Bônus</a> -
    Desenvolvimento de diversos bots para a comunidade. Desde sistema de verificação até bots dependentes de webscraping.<br>
 - <a href="https://nuuvem.com.br">Nuuvem</a> - 
-   Desenvolvimento dos bots oficiais de alertas da Nuuvem, chamado "NuuAlertas". Disponíveis no Discord e Telegram.<br>
+   Desenvolvimento dos bots oficiais de alertas da Nuuvem, chamado "NuuAlertas". Disponíveis no Discord (bot verificado e em mais de 80 Servidores!) e Telegram.<br>
 - <a href="https://discord.gg/go-island">Go Island</a> - Desenvolvimento de um bot multi-funcional para o Discord oficial do jogo.<br>
 
  Além disso, desenvolvi também para indivíduos, que por motivos de privacidade não estão listados aqui.<br>
