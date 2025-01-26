@@ -1,7 +1,7 @@
-<i>Última atualização: 17/05/2024</i>
+<i>Última atualização: 26/01/2025</i>
 # Olá, eu sou o Teet 👋
 
-<i>Programador | Desenvolvedor de bot e automação | Freelancer</i>
+<i>Programador | Desenvolvedor especializado em automatizações | Freelancer</i>
 
 ## 👨‍💻 Sobre o meu trabalho
 
@@ -24,7 +24,7 @@ Tamém possuo boa experiência com uso de APIs REST.
 ### Experiências
 <i><b>2023</b></i>
 
-Algumas empresas e marcas em destaque:
+Alguns trabalhos em destaque:
 
 - <a href="https://discord.gg/comunidadedobonus">Comunidade do Bônus</a> -
    Desenvolvimento de diversos bots para a comunidade. Desde sistema de verificação até bots dependentes de webscraping.<br>
@@ -37,8 +37,10 @@ Algumas empresas e marcas em destaque:
  Em suma, em 2023 desenvolvi mais de 40 bots para clientes (e mais alguns que fiz para uso próprio). Todos com funcionalidades distintas.
 
  <i><b>2024</b></i>
-
-  Mais informações em breve.
+- <a>Manual do Live</a> -
+   Desenvolvimento de bots/funcionalidades únicas para a comunidade. Como a gravação automática de Palcos do Discord.<br>
+- <a href="https://nuuvem.com.br">Manual do Live</a> -
+   Desenvolvimento de uma extensão de venda de jogos em tempo real na Twitch.<br>
 
 
  ### 💡 Quer ver mais do que já fiz? 
