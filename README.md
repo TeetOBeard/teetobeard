@@ -39,7 +39,7 @@ Alguns trabalhos em destaque:
  <i><b>2024</b></i>
 - <a>Manual do Live</a> -
    Desenvolvimento de bots/funcionalidades únicas para a comunidade. Como a gravação automática de Palcos do Discord.<br>
-- <a href="https://nuuvem.com.br">Manual do Live</a> -
+- <a href="https://nuuvem.com.br">Nuuvem</a> -
    Desenvolvimento de uma extensão de venda de jogos em tempo real na Twitch.<br>
 
 
