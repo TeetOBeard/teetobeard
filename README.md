@@ -26,8 +26,9 @@ Tamém possuo boa experiência com uso de APIs REST.
 
 Alguns trabalhos em destaque:
 
-- <a href="https://discord.gg/comunidadedobonus">Comunidade do Bônus</a> -
+- <a href="https://discord.gg/comunidadedobonus">Comunidade do Bônus</a> (Atual ArbBet) -
    Desenvolvimento de diversos bots para a comunidade. Desde sistema de verificação até bots dependentes de webscraping.<br>
+- ArbCripto
 - <a href="https://nuuvem.com.br">Nuuvem</a> - 
    Desenvolvimento dos bots oficiais de alertas da Nuuvem, chamado "NuuAlertas". Disponíveis no Discord (bot verificado e em mais de 80 Servidores!) e Telegram.<br>
 - <a href="https://discord.gg/go-island">Go Island</a> - Desenvolvimento de um bot multi-funcional para o Discord oficial do jogo.<br>
@@ -41,6 +42,8 @@ Alguns trabalhos em destaque:
    Desenvolvimento de bots/funcionalidades únicas para a comunidade. Como a gravação automática de Palcos do Discord.<br>
 - <a href="https://nuuvem.com.br">Nuuvem</a> -
    Desenvolvimento de uma extensão de venda de jogos em tempo real na Twitch.<br>
+- ArbBet >>>>
+  ArbCripto >>  Desenvolvimento de diversos bots/soluções para seu público e equipe.
 
 
  ### 💡 Quer ver mais do que já fiz? 
