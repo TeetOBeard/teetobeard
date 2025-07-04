@@ -45,8 +45,7 @@ Alguns trabalhos em destaque:
 
 
 <i><b>2025</b></i>
-  - ArbBet >>>>
-     ArbCripto >>  Desenvolvimento de diversos bots/soluções para seu público e equipe.
+  - ArbBet e ArbCripto >>  Desenvolvimento de diversos bots/soluções para seu público e equipe.
 
 
  ### 💡 Quer ver mais do que já fiz? 
