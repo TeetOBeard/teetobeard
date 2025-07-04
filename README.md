@@ -42,7 +42,10 @@ Alguns trabalhos em destaque:
    Desenvolvimento de bots/funcionalidades únicas para a comunidade. Como a gravação automática de Palcos do Discord.<br>
 - <a href="https://nuuvem.com.br">Nuuvem</a> -
    Desenvolvimento de uma extensão de venda de jogos em tempo real na Twitch.<br>
-- ArbBet >>>>
+
+
+<i><b>2025</b></i>
+  ArbBet >>>>
   ArbCripto >>  Desenvolvimento de diversos bots/soluções para seu público e equipe.
 
 
