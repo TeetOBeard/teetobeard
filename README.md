@@ -1,6 +1,10 @@
 <i>Última atualização: 14/09/2025</i>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TeetOBeard)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=TeetOBeard" alt="GitHub Streak"/>
+  </a>
+</div>
 
 # Olá, eu sou o Teet 👋
 
