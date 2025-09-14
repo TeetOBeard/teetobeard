@@ -1,4 +1,7 @@
 <i>Última atualização: 26/01/2025</i>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TeetOBeard)](https://git.io/streak-stats)
+
 # Olá, eu sou o Teet 👋
 
 <i>Programador | Desenvolvedor especializado em automatizações | Freelancer</i>
