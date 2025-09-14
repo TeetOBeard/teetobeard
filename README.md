@@ -1,4 +1,4 @@
-<i>Última atualização: 26/01/2025</i>
+<i>Última atualização: 14/09/2025</i>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TeetOBeard)](https://git.io/streak-stats)
 
