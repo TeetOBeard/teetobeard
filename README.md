@@ -15,22 +15,23 @@ _start:
     .data
 msg:
     .asciz
+        "
 ```
 ```python
-    "Olá! Eu sou sou o Teet (ou Thiago, se preferir).
+        Olá! Eu sou sou o Teet (ou Thiago, se preferir).
 
-    Desenvolvedor com experiência em construir bots e automatizações para tornar processos mais ágeis e eficientes.
+        Desenvolvedor com experiência em construir bots e automatizações para tornar processos mais ágeis e eficientes.
 
-    Tenho mais de 2 anos de experiência, com diversos projetos finalizados com sucesso para empresas e indivíduos.
+        Tenho mais de 2 anos de experiência, com diversos projetos finalizados com sucesso para empresas e indivíduos.
 
-    Me contate pelo Discord ou Telegram, caso tenha interesse:
+        Me contate pelo Discord ou Telegram, caso tenha interesse:
 
 ```
 ```javascript
-    @teetobeard
+        @teetobeard
 ```
 ```asm
-    "
+        "
 msg_end:
     .equ msg_len, msg_end - msg - 1
 ```
