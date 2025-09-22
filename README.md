@@ -30,7 +30,7 @@ msg:
     @teetobeard
 ```
 ```asm
-"
+    "
 msg_end:
     .equ msg_len, msg_end - msg - 1
 ```
