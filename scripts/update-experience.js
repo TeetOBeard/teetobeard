@@ -1,7 +1,7 @@
 // scripts/update-experience.js
 const fs = require("fs");
 
-const START_DATE = "2023-01-01"; // <-- troque pela sua data real (ex: primeiro trampo, início como freelancer, etc.)
+const START_DATE = "2023-01-01";
 const PLACEHOLDER = "{{ANOS_EXPERIENCIA}}";
 const README_PATH = "README.md";
 
@@ -19,7 +19,7 @@ if (Number.isNaN(start.getTime())) {
 const now = new Date();
 const years = yearsBetween(start, now);
 
-// formato: 2.3 (1 casa). Se preferir inteiro: Math.floor(years)
+// formato: 2.3 (1 casa). inteiro: Math.floor(years)
 const formatted = years.toFixed(1);
 
 let readme = fs.readFileSync(README_PATH, "utf8");
