@@ -22,7 +22,7 @@ msg:
 
         Desenvolvedor com experiência em construir bots e automatizações para tornar processos mais ágeis e eficientes.
 
-        Tenho mais de {{ANOS}} anos de experiência, com diversos projetos finalizados com sucesso para empresas e indivíduos.
+        Tenho mais de {{ANOS_EXPERIENCIA}} anos de experiência, com diversos projetos finalizados com sucesso para empresas e indivíduos.
 
         Me contate pelo Discord ou Telegram, caso tenha interesse:
 
